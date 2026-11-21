@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+joblib
+flask
+streamlit
+folium
+streamlit-folium
+mlflow
+pytest

@@ -1,0 +1,7 @@
+{
+    "total_records": 40,
+    "cluster_count": 5,
+    "noise_records": 0,
+    "clustered_records": 40,
+    "silhouette_score": 0.9621461407190408
+}
